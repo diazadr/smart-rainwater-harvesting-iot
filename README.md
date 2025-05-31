@@ -45,13 +45,11 @@ This project is the result of our Week 2 Komunikasi Data (IIoT) assignment, focu
 
 ### **Website Dashboard**
 
-<img src="https://github.com/user-attachments/assets/0d9bb901-cc07-486f-b2e5-04b8ec7c848a" alt="website-dashboard-1" style="width: 600px; height: auto;">
+<img src="https://github.com/user-attachments/assets/0c60d8a8-b969-446e-bfbc-205fffe2b5cc" alt="website-dashboard-1" style="width: 600px; height: auto;">
 
-<img src="https://github.com/user-attachments/assets/0c60d8a8-b969-446e-bfbc-205fffe2b5cc" alt="website-dashboard-2" style="width: 600px; height: auto;">
+<img src="https://github.com/user-attachments/assets/d0fb2eba-0cb3-4995-a0f5-0c8a37419dab" alt="website-dashboard-2" style="width: 600px; height: auto;">
 
-<img src="https://github.com/user-attachments/assets/d0fb2eba-0cb3-4995-a0f5-0c8a37419dab" alt="website-dashboard-3" style="width: 600px; height: auto;">
-
-<img src="https://github.com/user-attachments/assets/b4063047-b986-49a5-9ba2-9e56fbd32e76" alt="website-dashboard-4" style="width: 600px; height: auto;">
+<img src="https://github.com/user-attachments/assets/b4063047-b986-49a5-9ba2-9e56fbd32e76" alt="website-dashboard-3" style="width: 600px; height: auto;">
 
 ### **Prototype**
 
