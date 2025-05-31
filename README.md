@@ -10,6 +10,7 @@ This project is the result of our Week 2 Komunikasi Data (IIoT) assignment, focu
 * MQTT (via Shiftr.io)
 * DHT22 Sensor
 * Ultrasonic Sensor (HC-SR04)
+* Pump DC
 * Relay Module
 * Laravel 11 (Backend)
 * Tailwind CSS (Frontend)
