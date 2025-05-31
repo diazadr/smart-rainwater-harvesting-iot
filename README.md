@@ -25,13 +25,13 @@ This project is the result of our Week 2 Komunikasi Data (IIoT) assignment, focu
 
 ## **Architecture**
 
-![architecture-diagram](https://github.com/user-attachments/assets/5f7ae7e3-a68e-4487-82fb-e3e7cd6de409)
+<img src="https://github.com/user-attachments/assets/5f7ae7e3-a68e-4487-82fb-e3e7cd6de409" alt="architecture-diagram" style="width: 600px; height: auto;">
 
-![mqtt-flow-diagram](https://github.com/user-attachments/assets/82fafd81-4479-408d-8a62-7e57f11791fe)
+<img src="https://github.com/user-attachments/assets/82fafd81-4479-408d-8a62-7e57f11791fe" alt="mqtt-flow-diagram" style="width: 600px; height: auto;">
 
 ## **Schematic**
 
-![schematic-diagram](https://github.com/user-attachments/assets/945a6479-8789-476a-a02c-9794a2714894)
+<img src="https://github.com/user-attachments/assets/945a6479-8789-476a-a02c-9794a2714894" alt="schematic-diagram" style="width: 600px; height: auto;">
 
 ## **Demo**
 
@@ -41,27 +41,27 @@ This project is the result of our Week 2 Komunikasi Data (IIoT) assignment, focu
 
 ### **Website Sensor Data**
 
-![website-sensor-data](https://github.com/user-attachments/assets/2c7987fd-6d69-4403-9001-1a3f539425c7)
+<img src="https://github.com/user-attachments/assets/2c7987fd-6d69-4403-9001-1a3f539425c7" alt="website-sensor-data" style="width: 600px; height: auto;">
 
 ### **Website Dashboard**
 
 <img src="https://github.com/user-attachments/assets/0d9bb901-cc07-486f-b2e5-04b8ec7c848a" alt="website-dashboard-1" style="width: 600px; height: auto;">
 
-![website-dashboard-2](https://github.com/user-attachments/assets/0c60d8a8-b969-446e-bfbc-205fffe2b5cc)
+<img src="https://github.com/user-attachments/assets/0c60d8a8-b969-446e-bfbc-205fffe2b5cc" alt="website-dashboard-2" style="width: 600px; height: auto;">
 
-![website-dashboard-3](https://github.com/user-attachments/assets/d0fb2eba-0cb3-4995-a0f5-0c8a37419dab)
+<img src="https://github.com/user-attachments/assets/d0fb2eba-0cb3-4995-a0f5-0c8a37419dab" alt="website-dashboard-3" style="width: 600px; height: auto;">
 
-![website-dashboard-4](https://github.com/user-attachments/assets/b4063047-b986-49a5-9ba2-9e56fbd32e76)
+<img src="https://github.com/user-attachments/assets/b4063047-b986-49a5-9ba2-9e56fbd32e76" alt="website-dashboard-4" style="width: 600px; height: auto;">
 
 ### **Prototype**
 
 House prototype:
 
-![prototype-house](https://github.com/user-attachments/assets/e4439b0d-658f-437c-ad89-70ed8159b784)
+<img src="https://github.com/user-attachments/assets/e4439b0d-658f-437c-ad89-70ed8159b784" alt="prototype-house" style="width: 600px; height: auto;">
 
 Pump and wiring:
 
-![prototype-pump-wiring](https://github.com/user-attachments/assets/59c4638c-3f23-47af-88d6-83efa1462ad6)
+<img src="https://github.com/user-attachments/assets/59c4638c-3f23-47af-88d6-83efa1462ad6" alt="prototype-pump-wiring" style="width: 600px; height: auto;">
 
 ### **Cloud Shiftr.io**
 
