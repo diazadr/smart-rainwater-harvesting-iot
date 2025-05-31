@@ -1,0 +1,84 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+#bg-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+/* Optional: tambahkan efek glow atau shadow agar teks lebih terlihat */
+h2, p, h3, button {
+  text-shadow: 2px 2px 4px #000;
+}
+
+p {
+  font-size: 20px;
+  margin: 10px 0;
+  background-color: rgba(0, 0, 50, 0.4);
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+span {
+  font-weight: bold;
+  color: #ffff99;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 18px;
+  background: linear-gradient(to right, #4caf50, #2e7d32); /* gradasi hijau alami */
+  color: #ffffff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  transition: background 0.3s ease, transform 0.2s ease;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+  background: linear-gradient(to right, #66bb6a, #388e3c);
+  transform: scale(1.05);
+}
+
+
+@keyframes jatuh {
+  0% { top: 0; opacity: 1; }
+  90% { top: 85vh; opacity: 1; }
+  100% { top: 90vh; opacity: 0; }
+}
+
+.bubble {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: rgba(173, 216, 230, 0.6);
+  border-radius: 50%;
+  animation: naik 2s ease-out forwards;
+}
+
+@keyframes naik {
+  0% { bottom: 0; opacity: 1; }
+  100% { bottom: 90vh; opacity: 0; }
+}
+
+@keyframes linearSwim {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(50vw); }
+  100% { transform: translateX(0); }
+}
+
